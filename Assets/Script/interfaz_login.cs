@@ -4,8 +4,8 @@ using System.Collections;
 public class interfaz_login : MonoBehaviour {
 
 	public Texture BoxTexture;
-	string username = "";
-	string password = "";
+	private string username = "";
+	private string password = "";
 	// Use this for initialization
 	void Start () {
 
